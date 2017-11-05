@@ -1,0 +1,11 @@
+.comments-container #disqus_thread::before,
+.entry-nav::before,
+.footer::before,
+.header::after,
+.prev-entry ~ .next-entry::before {
+    border-bottom: .2em solid #ffd54a;
+}
+
+.entry + .home-sections-container .home-sections::before {
+    border-bottom: .2em solid #b1b0af;
+}
