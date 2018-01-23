@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Tea with Feathers</title>
+    <link>https://www.teawithfeathers.com/page/</link>
+    <description>Recent content in Pages on Tea with Feathers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://www.teawithfeathers.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.teawithfeathers.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.teawithfeathers.com/about/</guid>
+      <description>My name is Jed Davis. I&amp;rsquo;m a self-taught developer with a particular interest in infrastructure and overarching systems. I have my B.S. in Biology and a minor in Biochemistry, which is many ways was what first exposed me to the idea of large, complex, systems that elegantly connect together.
+I also enjoy cooking, music (both listening and playing), painting, and occasionally gaming. I&amp;rsquo;m currently living in the frozen north of South Dakota, but will soon be moving back to my home state of Texas.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://www.teawithfeathers.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.teawithfeathers.com/resume/</guid>
+      <description> Resume Skills Languages Tools Frameworks Other Projects Personal Website URL Shortener Twitter Bot Experience Tech Support Representative Workforce Management Analyst Education Hardin-Simmons University </description>
+    </item>
+    
+  </channel>
+</rss>

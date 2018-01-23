@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Tea with Feathers</title>
+    <link>https://www.teawithfeathers.com/tags/general/</link>
+    <description>Recent content in General on Tea with Feathers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.teawithfeathers.com/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Beginning</title>
+      <link>https://www.teawithfeathers.com/blog/beginning/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.teawithfeathers.com/blog/beginning/</guid>
+      <description>Hi there It seems you&amp;rsquo;ve found my blog. This is just the first post and probably won&amp;rsquo;t stick around for long once I get something with more substance here. For now though, it will have to do.</description>
+    </item>
+    
+  </channel>
+</rss>
